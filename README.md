@@ -17,3 +17,7 @@ A curated list of Google tools and products.
 - [Google News](https://news.google.com) - Aggregated news search by topic, date, location.
 - [Google Shopping](https://shopping.google.com) - Compare product listings, prices and reviews.
 - [Google Flights](https://www.google.com/flights) - Fast search for flight availability, prices and trends.
+
+## Language & Translation
+- [Google Translate](https://translate.google.com) - Instant text, document & website translation across 100+ languages.
+- [Google Ngram Viewer](https://books.google.com/ngrams) - Explore historical word usage trends across digitized books in multiple languages.
