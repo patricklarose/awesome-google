@@ -21,3 +21,8 @@ A curated list of Google tools and products.
 ## Language & Translation
 - [Google Translate](https://translate.google.com) - Instant text, document & website translation across 100+ languages.
 - [Google Ngram Viewer](https://books.google.com/ngrams) - Explore historical word usage trends across digitized books in multiple languages.
+
+## Developer Tools & APIs
+- [Google Cloud Platform](https://cloud.google.com) - Scalable cloud infrastructure, AI/ML services, and APIs.
+- [Firebase](https://firebase.google.com) - Backend as a Service for app development with real-time database, auth, and more.
+- [Google PageSpeed Insights](https://pagespeed.web.dev) - Web performance audit and optimization suggestions.
