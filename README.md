@@ -31,3 +31,8 @@ A curated list of Google tools and products.
 - [Google Fonts](https://fonts.google.com) - Free, open-source web fonts library.
 - [Google Icons](https://fonts.google.com/icons) - Set of open source material icons.
 - [Material Design](https://m3.material.io) - Design system with guidelines, components, and tools.
+
+## AI & Machine Learning
+- [Google Labs](https://labs.google) - Experimental AI powered tools and prototypes.
+- [AI Studio](https://aistudio.google.com) - Web-based IDE for prototyping and deploying GenAI apps using Gemini models.
+- [TensorFlow](https://www.tensorflow.org) - Open-source machine learning framework.
