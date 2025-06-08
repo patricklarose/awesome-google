@@ -26,3 +26,8 @@ A curated list of Google tools and products.
 - [Google Cloud Platform](https://cloud.google.com) - Scalable cloud infrastructure, AI/ML services, and APIs.
 - [Firebase](https://firebase.google.com) - Backend as a Service for app development with real-time database, auth, and more.
 - [Google PageSpeed Insights](https://pagespeed.web.dev) - Web performance audit and optimization suggestions.
+
+## Design Assets & Resources
+- [Google Fonts](https://fonts.google.com) - Free, open-source web fonts library.
+- [Google Icons](https://fonts.google.com/icons) - Set of open source material icons.
+- [Material Design](https://m3.material.io) - Design system with guidelines, components, and tools.
