@@ -6,8 +6,9 @@ A curated list of Google tools and products.
 1. [Search & Information](#search--information)
 2. [Language & Translation](#language--translation)
 3. [Developer Tools & APIs](#developer-tools--apis)
-4. [Design Assets & Resources](#design-assets--resources)  
-5. [AI & Machine Learning](#ai--machine-learning)
+4. [Design Assets & Resources](#design-assets--resources)
+5. [Data & Analytics](#data-analytics)
+6. [AI & Machine Learning](#ai--machine-learning)
 
 ## Search & Information
 - [Google Search](https://www.google.com) - Core web search engine with advanced operators.
@@ -31,6 +32,8 @@ A curated list of Google tools and products.
 - [Google Fonts](https://fonts.google.com) - Free, open-source web fonts library.
 - [Google Icons](https://fonts.google.com/icons) - Set of open source material icons.
 - [Material Design](https://m3.material.io) - Design system with guidelines, components, and tools.
+
+## Data & Analytics
 
 ## AI & Machine Learning
 - [Google Labs](https://labs.google) - Experimental AI powered tools and prototypes.
