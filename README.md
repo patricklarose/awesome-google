@@ -34,6 +34,7 @@ A curated list of Google tools and products.
 - [Material Design](https://m3.material.io) - Design system with guidelines, components, and tools.
 
 ## Data & Analytics
+- [Google Analytics](https://analytics.google.com) - Web analytics service for tracking and reporting website traffic and user behavior.
 
 ## AI & Machine Learning
 - [Google Labs](https://labs.google) - Experimental AI powered tools and prototypes.
