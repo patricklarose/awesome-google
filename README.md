@@ -35,6 +35,7 @@ A curated list of Google tools and products.
 
 ## Data & Analytics
 - [Google Analytics](https://analytics.google.com) - Web analytics service for tracking and reporting website traffic and user behavior.
+- [Looker Studio](https://lookerstudio.google.com) - Data visualization and dashboard tool for turning data into customizable, shareable reports.
 
 ## AI & Machine Learning
 - [Google Labs](https://labs.google) - Experimental AI powered tools and prototypes.
